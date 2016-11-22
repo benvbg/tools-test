@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/benvbg/tools-test#readme",
   "devDependencies": {
+    "browser-sync": "^2.18.2",
     "gulp-sass": "^2.3.2"
   }
 }
